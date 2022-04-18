@@ -1,0 +1,37 @@
+.d-flex-one{
+     display: flex;
+     border: 1px solid green;
+     padding: 20px;
+     margin-top: 50px;
+}
+
+.phone img {
+    height: 75px;
+    width: 127%;
+}
+
+.span.list-group {
+    margin: 0px 30px;
+}
+button {
+    background: rgb(212, 47, 206);
+    color: white;
+    border: 1px solid white;
+}
+svg{
+    position: absolute;
+    right: 8%;
+    font-size: 40px;
+    color: rgb(124, 45, 208);
+}
+.shop {
+    text-align: center;
+}
+span {
+    position: absolute;
+    right: 8%;
+    top: 4%;
+    color: deepskyblue;
+    font-size: 19px;
+    font-weight: 700;
+}
